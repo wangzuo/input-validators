@@ -1,7 +1,11 @@
 {
   "name": "input-validators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Input string validator functions",
+  "keywords": [
+    "validator",
+    "input"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
@@ -10,5 +14,17 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.2.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/input-validators.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzuo/input-validators/issues"
+  },
+  "homepage": "https://github.com/wangzuo/input-validators#readme"
 }
