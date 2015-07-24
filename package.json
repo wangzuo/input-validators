@@ -1,0 +1,14 @@
+{
+  "name": "input-validators",
+  "version": "1.0.0",
+  "description": "Input string validator functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Wang Zuo",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
